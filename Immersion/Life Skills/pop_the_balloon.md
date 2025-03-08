@@ -71,3 +71,6 @@ This lesson will use an engaging, interactive game inspired by *Pop the Balloon 
 - Which traits did students value the most? Were there any surprises?
 - Did the activity encourage self-awareness and personal development?
 - How did students engage in discussions about healthy relationships?
+
+## **Resources
+- Slideshow: https://docs.google.com/presentation/d/1S03nTjkhBk9qvt8i6qt-Fau6eCAig7cNF6tlpABAe5I/edit#slide=id.g32c5cf3f5f7_0_22
